@@ -1,6 +1,6 @@
 # [Oulu MVG Research Group DATASET managements](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis)
 
-<img src="MVGlogo.PNG" width="300" height="300">
+<img src="MVGlogo.PNG" width="320" height="300">
 
 The **Oulu CMV DATASET managements** empowers our group members to easily access and visit all the existing datasets (both our own datasets and other popular benchmark datasets) rooted at the CSC platform ⭐⭐⭐⭐⭐.
 
