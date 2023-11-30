@@ -9,42 +9,46 @@ The **Oulu CMV DATASET managements** empowers our group members to easily access
 
 We store the datasets on the CSC platform in **two servers** (Puhti and Allas) 🐧
 
-**Allas for cold storage**
+### 1. Allas for cold storage
 
 [Allas](https://docs.csc.fi/data/Allas/accessing_allas/) server is used for **cold storage**
 
-- 💬  **For long-term storage/backup**
+💬  **For long-term storage/backup** The data won't be deleted that easily; unstructured data is accepted (you can put all your trash here).
 
-The data won't be deleted that easily; unstructured data is accepted (you can put all your trash here).
-
-[**How to upload data to Allas**](https://docs.csc.fi/data/Allas/using_allas/cyberduck/)
-
-**Puhti/Mahti for hot storage**
+### 2. Puhti/Mahti for hot storage**
 
 [Puhti](https://docs.csc.fi/computing/systems-puhti/) server is used for **hot storage**
 
-- 💬 **For handy access for the running experiments**
+💬 **For handy access for the running experiments** The data WILL be deleted easily (90 days); unstructured data is NOT accepted (big chunk file is better); fast access
 
-The data WILL be deleted easily (90 days); unstructured data is NOT accepted (big chunk file is better)
 
-[**How to upload data to Puhti**](https://docs.csc.fi/data/moving/graphical_transfer/)
+### Tips
+- Make sure that you upload your datasets to **both servers for the first time**.
+- [Converting between Allas and Puhti/Mahti](https://docs.csc.fi/data/Allas/accessing_allas/#accessing-allas-in-the-csc-computing-environment-and-other-linux-platforms)
+- [How to upload data to Allas](https://docs.csc.fi/data/Allas/using_allas/cyberduck/)
+- [How to upload data to Puhti](https://docs.csc.fi/data/moving/graphical_transfer/)
 
-Make sure that you upload your datasets to **both servers for the first time**.
-
-[Converting between Allas and Puhti/Mahti](https://docs.csc.fi/data/Allas/accessing_allas/#accessing-allas-in-the-csc-computing-environment-and-other-linux-platforms)
 
 ## Dataset storage arrangement
 
 So far, we have applied two projects to store the datasets (**MVG_dataset1** and **MVG_dataset2**); we will apply for more depending on the final space used.
 
+Below is the data arrangement:
+
 **MVG_dataset1** 
+
 Project name: MVG_dataset1
+
 Project ID: project_2009201
+
 Content: face datasets
+
 Puhti address:/project_2009201/scratch/
+
 Allas address:project_2009201:default:username
 
 Folder hierarchy (people in charge):
+
 -FER (Xingxun)
  -AffectWild
 -MER (Yante)
@@ -56,17 +60,23 @@ Folder hierarchy (people in charge):
 -Others (Haotian)
 
 **MVG_dataset2** 
+
 Project name: MVG_dataset2
+
 Project ID: 
+
 Content: body datasets
+
 Puhti address:/project_2009202/scratch/
+
 Allas address:project_2009202:default:username
 
 
 Folder hierarchy (people in charge):
+
 -MG (Haoyu)
  -iMiGUE 
- -SMG ()
+ -SMG (70G)
 -Action (Atif)
  -Kinectic400
  -NTU60
@@ -74,23 +84,27 @@ Folder hierarchy (people in charge):
 -Gesture (Haoyu)
  -Chalearn2014
  -Chalearn2016
- -MSRC
- -OAD
 -Others (Atif)
 
 **MVG_dataset3**  (TBD)
+
 Project name: MVG_dataset3
+
 Content: EmotionAI-related datasets
 
 Folder hierarchy (people in charge):
+
 -EmotionAI (Hanlin)
 -Sundown (Qianru)
 
 **MVG_dataset4** (TBD)
+
 Project name: MVG_dataset4
+
 Content: general datasets
 
 Folder hierarchy (people in charge):
+
 -image (Zhuo)
  -ImageNet
  -CIFAR100
