@@ -42,7 +42,7 @@ Project ID: project_2009201
 
 Content: face datasets
 
-Puhti address:/project_2009201/scratch/
+Puhti address:/scratch/project_2009201/
 
 Allas address:project_2009201:default:username
 
@@ -74,7 +74,7 @@ Project ID: project_2009202
 
 Content: body datasets
 
-Puhti address:/project_2009202/scratch/
+Puhti address:/scratch/project_2009202/
 
 Allas address:project_2009202:default:username
 
