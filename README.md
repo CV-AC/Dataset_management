@@ -27,7 +27,12 @@ Puhti/Mahti is for **handy access for the running experiments**. The data WILL b
 
 So far, we have applied two projects to store the datasets (**MVG_dataset1** and **MVG_dataset2**); we will apply for more depending on the final space used.
 
-Below is the data arrangement:
+- MVG_dataset1 -> face 
+- MVG_dataset2 -> body
+- MVG_dataset3 -> EmotionAI
+- MVG_dataset4 -> General
+
+Below is the detailed data arrangement:
 
 **a. MVG_dataset1** 
 
