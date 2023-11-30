@@ -43,15 +43,15 @@ Allas address:project_2009201:default:username
 
 Folder hierarchy (people in charge):
 
--FER (Xingxun)
- -AffectWild
--MER (Yante)
- -SMIC
- -CASME
--rPPG (Marko)
--Anti-spoofing (Marko)
--Forgery (Yang)
--Others (Haotian)
+- FER (Xingxun)
+ - AffectWild
+- MER (Yante)
+ - SMIC
+ - CASME
+- rPPG (Marko)
+- Anti-spoofing (Marko)
+- Forgery (Yang)
+- Others (Haotian)
 
 **MVG_dataset2** 
 
@@ -68,17 +68,17 @@ Allas address:project_2009202:default:username
 
 Folder hierarchy (people in charge):
 
--MG (Haoyu)
- -iMiGUE 
- -SMG (70G)
--Action (Atif)
- -Kinectic400
- -NTU60
- -NTU120
--Gesture (Haoyu)
- -Chalearn2014
- -Chalearn2016
--Others (Atif)
+- MG (Haoyu)
+ - iMiGUE 
+ - SMG (70G)
+- Action (Atif)
+ - Kinectic400
+ - NTU60
+ - NTU120
+- Gesture (Haoyu)
+ - Chalearn2014
+ - Chalearn2016
+- Others (Atif)
 
 **MVG_dataset3**  (TBD)
 
@@ -88,8 +88,8 @@ Content: EmotionAI-related datasets
 
 Folder hierarchy (people in charge):
 
--EmotionAI (Hanlin)
--Sundown (Qianru)
+- EmotionAI (Hanlin)
+- Sundown (Qianru)
 
 **MVG_dataset4** (TBD)
 
@@ -99,11 +99,11 @@ Content: general datasets
 
 Folder hierarchy (people in charge):
 
--image (Zhuo)
- -ImageNet
- -CIFAR100
- -CIFAR10
--others
+- image (Zhuo)
+ - ImageNet
+ - CIFAR100
+ - CIFAR10
+- others
 
 ## 3. TO DO LIST
 - [X] Basic structure of the dataset management
