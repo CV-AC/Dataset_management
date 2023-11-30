@@ -29,7 +29,7 @@ So far, we have applied two projects to store the datasets (**MVG_dataset1** and
 
 Below is the data arrangement:
 
-**MVG_dataset1** 
+**a. MVG_dataset1** 
 
 Project name: MVG_dataset1
 
@@ -61,11 +61,11 @@ Folder hierarchy (people in charge):
 
 ```
 
-**MVG_dataset2** 
+**b. MVG_dataset2** 
 
 Project name: MVG_dataset2
 
-Project ID: 
+Project ID: project_2009202
 
 Content: body datasets
 
@@ -89,7 +89,7 @@ Folder hierarchy (people in charge):
 
 ```
 
-**MVG_dataset3**  (TBD)
+**c. MVG_dataset3**  (TBD)
 
 Project name: MVG_dataset3
 
@@ -107,7 +107,7 @@ Folder hierarchy (people in charge):
 ```
 
 
-**MVG_dataset4** (TBD)
+**d. MVG_dataset4** (TBD)
 
 Project name: MVG_dataset4
 
@@ -117,7 +117,7 @@ Folder hierarchy (people in charge):
 
 ```bash
 .
-├── Image (Zhuo)
+├── Image
     ├── ImageNet (150G)
     └── CIFAR100
 ├── others
