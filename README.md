@@ -1,28 +1,41 @@
 # [Oulu MVG Research Group DATASET managements](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis)
 
 [![Screenshot](./MVGlogo.PNG)](https://www.oulu.fi/en/university/faculties-and-units/faculty-information-technology-and-electrical-engineering/center-machine-vision-and-signal-analysis)
+
+
 The **Oulu CMV DATASET managements** empowers our group members to easily access and visit all the existing datasets (both our own datasets and other popular benchmark datasets) rooted at the CSC platform ⭐⭐⭐⭐⭐.
 
 ## Introduction
+
+
 We store the datasets on the CSC platform in **two servers** (Puhti and Allas) 🐧
 
-**cold storage**
-[Allas](https://docs.csc.fi/data/Allas/accessing_allas/) server is used for **cold storage**
-### For long-term storage/backup
-The data won't be deleted that easily; unstructured data is accepted (you can put all your trash here).
-How to upload data to Allas https://docs.csc.fi/data/Allas/using_allas/cyberduck/
+**Allas for cold storage**
 
-**hot storage**
-[Allas](https://docs.csc.fi/data/Allas/accessing_allas/) server is used for **hot storage**
-### For handy access for the running experiments
+[Allas](https://docs.csc.fi/data/Allas/accessing_allas/) server is used for **cold storage**
+
+- 💬  **For long-term storage/backup**
+
+The data won't be deleted that easily; unstructured data is accepted (you can put all your trash here).
+
+[**How to upload data to Allas**](https://docs.csc.fi/data/Allas/using_allas/cyberduck/)
+
+**Puhti/Mahti for hot storage**
+
+[Puhti](https://docs.csc.fi/computing/systems-puhti/) server is used for **hot storage**
+
+- 💬 **For handy access for the running experiments**
+
 The data WILL be deleted easily (90 days); unstructured data is NOT accepted (big chunk file is better)
-[How to upload data to Puhti](https://docs.csc.fi/data/moving/graphical_transfer/)
+
+[**How to upload data to Puhti**](https://docs.csc.fi/data/moving/graphical_transfer/)
 
 Make sure that you upload your datasets to **both servers for the first time**.
 
 [Converting between Allas and Puhti/Mahti](https://docs.csc.fi/data/Allas/accessing_allas/#accessing-allas-in-the-csc-computing-environment-and-other-linux-platforms)
 
 ## Dataset storage arrangement
+
 So far, we have applied two projects to store the datasets (**MVG_dataset1** and **MVG_dataset2**); we will apply for more depending on the final space used.
 
 **MVG_dataset1** 
