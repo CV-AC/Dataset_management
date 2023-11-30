@@ -147,7 +147,7 @@ Folder hierarchy (people in charge):
 ## 4. Maintenance instructions
 - 👉 If you need to change the high-level dataset structure (like Face, General), please contact chen.haoyu@oulu.fi so we can update this README to make it consistent.
 - 🚀 [Do with BIG file chunk](https://docs.csc.fi/support/faq/local_scratch_for_data_processing/) NEVER upload a huge amount of files; instead, upload a big compressed file (you can process the data later in your own scratch space)
-- ⬆️ **Updating of both servers?** You don't need to make the content of the two server exactly the same, but consistent.
+- ⬆️ **Updating of both servers?** You don't need to make the content of the two server exactly the same, but make sure the folder level arrangement is consistent.
 - 🗳  [GDPR regulation](https://docs.csc.fi/accounts/when-your-project-handles-personal-data/) Basically you don't need to take extra actions (the GDPR form was filled out when applying for the space)
 
 
