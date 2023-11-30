@@ -13,11 +13,9 @@ We store the datasets on the CSC platform in **two servers** (Puhti and Allas) ð
 Allas is for **long-term storage/backup**. The data won't be deleted that easily; unstructured data is accepted (you can put all your trash here).
 - [How to upload data to Allas](https://docs.csc.fi/data/Allas/using_allas/cyberduck/)
 
-**b. Puhti/Mahti for hot storage**
+**b. [Puhti](https://docs.csc.fi/computing/systems-puhti/)/Mahti for hot storage**
 
-[Puhti](https://docs.csc.fi/computing/systems-puhti/) server is used for **hot storage**
-
-Puhti is for **handy access for the running experiments**. The data WILL be deleted easily (90 days); unstructured data is NOT accepted (big chunk file is better); fast access
+Puhti/Mahti is for **handy access for the running experiments**. The data WILL be deleted easily (90 days); unstructured data is NOT accepted (big chunk file is better); fast access
 - [How to upload data to Puhti](https://docs.csc.fi/data/moving/graphical_transfer/)
 
 **Tips**
