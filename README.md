@@ -29,8 +29,8 @@ So far, we have applied two projects to store the datasets (**MVG_dataset1** and
 
 - MVG_dataset1 -> face 
 - MVG_dataset2 -> body
-- MVG_dataset3 -> EmotionAI
-- MVG_dataset4 -> General
+- MVG_dataset3 -> General
+- MVG_dataset4 -> EmotionAI
 
 Below is the detailed data arrangement:
 
@@ -96,9 +96,29 @@ Folder hierarchy (people in charge):
 
 ```
 
-**c. MVG_dataset3**  (TBD)
+
+
+**d. MVG_dataset3** (TBD)
 
 Project name: MVG_dataset3
+
+Content: general datasets
+
+Folder hierarchy (people in charge):
+
+```bash
+.
+├── Image  (Zhuo)
+    ├── ImageNet (150G)
+    └── CIFAR100
+├── others
+│   └── ...
+
+```
+
+**c. MVG_dataset4**  (TBD)
+
+Project name: MVG_dataset4
 
 Content: EmotionAI-related datasets
 
@@ -113,24 +133,6 @@ Folder hierarchy (people in charge):
 
 ```
 
-
-**d. MVG_dataset4** (TBD)
-
-Project name: MVG_dataset4
-
-Content: general datasets
-
-Folder hierarchy (people in charge):
-
-```bash
-.
-├── Image
-    ├── ImageNet (150G)
-    └── CIFAR100
-├── others
-│   └── ...
-
-```
 
 ## 3. TO DO LIST
 - [X] Basic structure of the dataset management
