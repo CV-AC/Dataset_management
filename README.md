@@ -6,7 +6,7 @@ The **Oulu CMV DATASET managements** empowers our group members to easily access
 
 ## 1. Introduction
 
-We store the datasets on the CSC platform in **two servers** (Puhti and Allas) 🐧
+We store the datasets on the CSC platform in **two servers** (Puhti/Mahti and Allas) 🐧
 
 **a. [Allas](https://docs.csc.fi/data/Allas/accessing_allas/) for cold storage**
 
@@ -19,7 +19,8 @@ Puhti/Mahti is for **handy access for the running experiments**. The data WILL b
 - [How to upload data to Puhti](https://docs.csc.fi/data/moving/graphical_transfer/)
 
 **Tips**
-- Make sure that you upload your datasets to **both servers for the first time**.
+- Basically, you only need to upload your datasets to **Allas server**, and you can pull the data from Allas to Mahti/Puhti whenever you need to.
+- Make sure that you pull your datasets from Allas to **Puhti or Mahti under the same subfoler** (make the structure well-orgnized).
 - [Converting between Allas and Puhti/Mahti](https://docs.csc.fi/data/Allas/accessing_allas/#accessing-allas-in-the-csc-computing-environment-and-other-linux-platforms)
 
 
