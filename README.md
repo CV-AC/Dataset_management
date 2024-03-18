@@ -99,11 +99,17 @@ Folder hierarchy (people in charge):
 
 
 
-**d. MVG_dataset3** (TBD)
+**d. MVG_dataset3** 
 
 Project name: MVG_dataset3
 
-Content: general datasets
+Project ID: project_2003455
+
+Content: body datasets
+
+Puhti address:/scratch/project_2003455/
+
+Allas address:project_2003455:default:username
 
 Folder hierarchy (people in charge):
 
@@ -120,6 +126,8 @@ Folder hierarchy (people in charge):
 **c. MVG_dataset4**  (TBD)
 
 Project name: MVG_dataset4
+
+Project ID: project_2009204
 
 Content: EmotionAI-related datasets
 
