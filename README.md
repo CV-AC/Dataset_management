@@ -105,7 +105,7 @@ Project name: MVG_dataset3
 
 Project ID: project_2003455
 
-Content: body datasets
+Content: general datasets
 
 Puhti address:/scratch/project_2003455/
 
